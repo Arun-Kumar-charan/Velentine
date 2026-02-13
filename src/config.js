@@ -64,7 +64,7 @@ export const config = {
     },
     {
       id: 6,
-      label: "Open on a random Saturday",
+      label: "Open on a random Saturday ....",
       type: "message",
       content: "Just a reminder that you're the best thing that's ever happened to me. I love you on Tuesdays, and every other day too. 💖",
       image: "/images/IMG_20260123_212217.jpg",
