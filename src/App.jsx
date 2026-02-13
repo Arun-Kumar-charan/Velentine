@@ -30,7 +30,7 @@ function App() {
 
           {/* Footer */}
           <footer className="footer">
-            <p>Made with 💖 for Rini</p>
+            <p>Made with 💖 for Rini @ Babai</p>
           </footer>
         </div>
       )}
