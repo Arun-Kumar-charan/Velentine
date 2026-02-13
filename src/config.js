@@ -34,8 +34,8 @@ export const config = {
       id: 2,
       label: "Open when you're sad",
       type: "message",
-      content: "Hey beautiful, I know things are tough right now, but remember: you are stronger than you think, braver than you believe, and loved more than you know. I'm always here for you. ❤️",
-      image: "/images/IMG20210828144201-01.jpeg",
+      content: "Hey beautiful, I know things are tough right now, but remember: you are stronger than you think, braver than you believe, and loved more than you know. I'm always here for you. ❤️ .",
+      image: "/images/20220108_104913-01.jpeg",
       link: null,
     },
     {
